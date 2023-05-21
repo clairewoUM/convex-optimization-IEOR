@@ -1,4 +1,4 @@
-## Grdient Descent and Newton's Method
+## Gradient Descent and Newton's Method
 HW2 - Gradient Descent, Newton's Method, Backtracking Line Search
 
 We will investigate the performance of Gradient Descent and Newton’s method on two unconstrained optimization problems.
