@@ -29,3 +29,5 @@ $\bar{\alpha} =1$ ; $c_1 = 10^{-4}$; $\tau = 0.5$; max_iters = 100; $\epsilon = 
 <p align="center">
 $\parallel \nabla f(x_k) \parallel_{inf} \leq \epsilon \mbox{max}$ { $\parallel \nabla f(x_0) \parallel_{inf}, 1$ }, or $k <$ max_iters ($k$: iteration counter).
 <p>
+
+![Backtracking Line Search Algorithm](Backtracking_Line_Search.png)
