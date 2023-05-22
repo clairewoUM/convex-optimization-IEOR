@@ -9,6 +9,10 @@ We will investigate the performance of several unconstrained optimization method
 * BFGS ($H_0 = I$; skip update if $s_k^Ty_k$ is not sufficiently positive, i.e., skip if $s_k^Ty_k < \epsilon ||s_k||_2||y_k||_2$);
 * L-BFGS (with memory $m \in \{2, 5, 10\}$; $H_k^{(0)} = I$; skip update if $s_k^Ty_k$ is not sufficiently positive).
 
+![Backtracking Line Search](1_backtracking.png)
+![Modified Newton's Method](2_modified_newton.png)
+![L-BFGS Two-loop recursion](3_l-bfgs_two_loop_recursion.png)
+
 ### Problems:
 * Rosenbrock Problem:
 <p align="center">
