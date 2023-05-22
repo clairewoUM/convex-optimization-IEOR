@@ -7,6 +7,9 @@ We will investigate the performance of Gradient Descent and Newton’s method on
 * Gradient Descent with constant step size
 * Gradient Descent with a backtracking line search
 * Newton's Method with a backtracking line search
+
+![Backtracking Line Search Algorithm](Backtracking_Line_Search.png)
+
 ### Problems:
 * Quadratic ($n=2$) Problem
 $$f(x) = \frac{1}{2}x^TAx+b^Tx+c$$
@@ -29,5 +32,3 @@ $\bar{\alpha} =1$ ; $c_1 = 10^{-4}$; $\tau = 0.5$; max_iters = 100; $\epsilon = 
 <p align="center">
 $\parallel \nabla f(x_k) \parallel_{inf} \leq \epsilon \mbox{max}$ { $\parallel \nabla f(x_0) \parallel_{inf}, 1$ }, or $k <$ max_iters ($k$: iteration counter).
 <p>
-
-![Backtracking Line Search Algorithm](Backtracking_Line_Search.png)
