@@ -8,7 +8,7 @@ We will investigate the performance of Gradient Descent and Newton’s method on
 * Gradient Descent with a backtracking line search
 * Newton's Method with a backtracking line search
 
-![Backtracking Line Search Algorithm](Backtracking_Line_Search.png)
+<img src="Backtracking_Line_Search.png" width="800">
 
 ### Problems:
 * Quadratic ($n=2$) Problem
