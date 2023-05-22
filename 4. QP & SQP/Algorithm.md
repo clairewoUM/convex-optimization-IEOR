@@ -8,6 +8,16 @@ mization problems.
 * Quadratic Penalty Method
 * Sequential Quadratic Programming Method
 
+Algorithm Details:
+
+<img src="algo_details.png" width="700">
+
+<img src="1_QP.png" width="800">
+<img src="QP_details.png" width="700">
+
+<img src="2_SQP.png" width="800">
+<img src="SQP_details.png" width="700">
+
 ### Problems:
 
 1. *Problem_1*:
