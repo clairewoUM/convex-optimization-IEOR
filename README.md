@@ -1,2 +1,1 @@
-# convex-optimization-UMich
-Convex Optimization
+# Convex Optimization
